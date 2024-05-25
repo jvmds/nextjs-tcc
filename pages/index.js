@@ -4,7 +4,7 @@ import styles from "../styles/Home.module.css";
 export default function Home() {
   return (
     <div>
-      <h1>Vai dá certo? não sei 2</h1>
+      <h1>Acho que vai</h1>
     </div>
   );
 }
