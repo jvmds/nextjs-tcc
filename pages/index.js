@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <div>
       <h1>TCC II</h1>
+      <p>03/07/2024</p>
     </div>
   );
 }
